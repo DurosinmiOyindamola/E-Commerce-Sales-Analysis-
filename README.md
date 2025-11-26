@@ -1,4 +1,10 @@
 # E-Commerce-Sales-Analysis-
+## Table Of Content
+- [Project Overview](#projectoverview)
+- [Problem Statement](#problemstatement)
+- [Process](#process)
+- [Tools Used](#toolsused)
+- [Key Insights](#keyinsights)
 ### Project Overview
 This project analyze online store sales data. It provides insights into revenue, sales trends, top-performing products, and customer behavior. The dashboard helps stakeholders make data-driven decisions to optimize sales, inventory, and marketing strategies.
 
@@ -59,12 +65,12 @@ This dataset is the foundation for analyzing sales trends, product performance, 
 - The company recorded $105M in total revenue and 6M units sold, reflecting a 16.1% year-over-year increase.
 - Despite strong sales, customer growth remained flat (0%), indicating that revenue increases were driven by existing customers.
 - Top Performing Markets: Germany, Poland, Lithuania, Bangladesh, and India contributed most to revenue.
-- Best-Selling Products:
-  -Ct – 2M units
-  -Cans – 1M units
-  -Bottles - 840K units
-  -Oz – 454K units
-  -Bags – 367K units
+- ### Best-Selling Products:
+-Ct – 2M units
+-Cans – 1M units
+-Bottles - 840K units
+-Oz – 454K units
+-Bags – 367K units
 - The average selling price across all products is $17.6 per unit.
 -Engagement levels remained stable, with no noticeable increase even though revenue grew significantly.
 
