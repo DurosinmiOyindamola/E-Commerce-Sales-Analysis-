@@ -1,7 +1,8 @@
 # E-Commerce-Sales-Analysis-
 ## Table Of Content
 - [Project Overview](#projectoverview)
-- [Problem Statement](#problemstatement)
+- [Objectives](#objectives)
+- [Data Description](data description)
 - [Process](#process)
 - [Tools Used](#toolsused)
 - [Key Insights](#keyinsights)
