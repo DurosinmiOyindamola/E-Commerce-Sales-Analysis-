@@ -56,15 +56,15 @@ This dataset is the foundation for analyzing sales trends, product performance, 
 - Slicers for filtering by product, category, or region
 
 ### Key Insights
-- Total Revenue & Sales: The company recorded $105M in total revenue and 6M units sold, reflecting a 16.1% year-over-year increase.
-- Customer Growth: Despite strong sales, customer growth remained flat (0%), indicating that revenue increases were driven by existing customers.
+- The company recorded $105M in total revenue and 6M units sold, reflecting a 16.1% year-over-year increase.
+- Despite strong sales, customer growth remained flat (0%), indicating that revenue increases were driven by existing customers.
 - Top Performing Markets: Germany, Poland, Lithuania, Bangladesh, and India contributed most to revenue.
 - Best-Selling Products:
-Ct – 2M units
-Cans – 1M units
-Bottles – 840K units
-Oz – 454K units
-Bags – 367K units
-- Average Selling Price: $17.6 per unit.
-- Customer Engagement: Stable, with no noticeable increase despite strong revenue growth.
+  -Ct – 2M units
+  -Cans – 1M units
+  -Bottles - 840K units
+  -Oz – 454K units
+  -Bags – 367K units
+- The average selling price across all products is $17.6 per unit.
+-Engagement levels remained stable, with no noticeable increase even though revenue grew significantly.
 
