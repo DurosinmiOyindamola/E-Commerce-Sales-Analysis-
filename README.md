@@ -66,11 +66,11 @@ This dataset is the foundation for analyzing sales trends, product performance, 
 - Despite strong sales, customer growth remained flat (0%), indicating that revenue increases were driven by existing customers.
 - Top Performing Markets: Germany, Poland, Lithuania, Bangladesh, and India contributed most to revenue.
 - Best-Selling Products:
--Ct : 2M units
--Cans : 1M units
--Bottles : 840K units
--Oz : 454K units
--Bags : 367K units
+- Ct : 2M units
+- Cans : 1M units
+- Bottles : 840K units
+- Oz : 454K units
+- Bags : 367K units
 - The average selling price across all products is $17.6 per unit.
--Engagement levels remained stable, with no noticeable increase even though revenue grew significantly.
+- Engagement levels remained stable, with no noticeable increase even though revenue grew significantly.
 
