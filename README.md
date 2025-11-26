@@ -56,9 +56,15 @@ This dataset is the foundation for analyzing sales trends, product performance, 
 - Slicers for filtering by product, category, or region
 
 ### Key Insights
-- Top-selling products consistently contribute most of the revenue.
-- Certain months show peak sales, revealing seasonal trends.
-- The majority of sales come from specific regions, highlighting geographical opportunities.
-- High-value orders are concentrated among returning customers, emphasizing the importance of customer retention.
-- Product categories vary in performance, guiding inventory and marketing focus.
+- Total Revenue & Sales: The company recorded $105M in total revenue and 6M units sold, reflecting a 16.1% year-over-year increase.
+- Customer Growth: Despite strong sales, customer growth remained flat (0%), indicating that revenue increases were driven by existing customers.
+- Top Performing Markets: Germany, Poland, Lithuania, Bangladesh, and India contributed most to revenue.
+- Best-Selling Products:
+Ct – 2M units
+Cans – 1M units
+Bottles – 840K units
+Oz – 454K units
+Bags – 367K units
+- Average Selling Price: $17.6 per unit.
+- Customer Engagement: Stable, with no noticeable increase despite strong revenue growth.
 
