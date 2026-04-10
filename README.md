@@ -48,7 +48,8 @@ The main objectives of this analysis are to:
 - Bags : 367K units
 - The average selling price across all products is $17.6 per unit.
 - Engagement levels remained stable, with no noticeable increase even though revenue grew significantly.
-- <img width="3274" height="2318" alt="image" src="https://github.com/user-attachments/assets/7a519699-0186-4735-a6e4-e2a043e8cba8" />
+<img width="1843" height="1105" alt="image" src="https://github.com/user-attachments/assets/976443e4-6e15-4ac7-9cb1-c5a954b4815f" />
+
 <img width="1864" height="1023" alt="image" src="https://github.com/user-attachments/assets/341ba392-c4a6-4e8b-890f-94a1bb70ef51" />
 
 
